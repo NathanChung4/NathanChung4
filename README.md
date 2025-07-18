@@ -40,8 +40,8 @@ I'm a **Computer Science student** at Texas A&M University, passionate about **A
 ## 📫 Let's Connect!
 - 📧 Email: nathanwjchung@gmail.com
 - 💼 LinkedIn: (https://www.linkedin.com/in/nathan-chung4/)
-- [Resume](https://github.com/NathanChung4/NathanChung4/blob/main/NathanChungResume.pdf)
 - 🌐 Portfolio: (https://nathanchung.vercel.app/)
+- [Resume](https://github.com/NathanChung4/NathanChung4/blob/main/NathanChungResume.pdf)
 
 ## 🎲 Fun Fact
 I'm actively involved in multiple organizations at Texas A&M:
