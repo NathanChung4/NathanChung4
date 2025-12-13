@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I'm a **Computer Science student** at Texas A&M University, passionate about **AI/ML automation**, **quantitative development**, and building **scalable software solutions**. Currently interning at Arkane Digital, where I develop AI-powered workflows.
 
-- 🎓 Studying Computer Science at Texas A&M (Expected 2028)
+- 🎓 Studying Computer Science at Texas A&M
 - 🤖 AI/ML Intern at Arkane Digital
 - 💻 Former Software Developer Intern at Edikt Studios
 - 📈 Interested in algorithmic trading and financial modeling
