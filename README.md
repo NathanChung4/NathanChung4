@@ -1,6 +1,6 @@
  ## Hi! I'm Nathan 👋
 
-Computer Science student at Texas A&M (Class of 2029) building backend systems and data tools. Currently a
+Computer Science student at Texas A&M building backend systems and data tools. Currently a
 Software Engineer Intern at **AMD** working on CPU power-management validation infrastructure. Previously at
 **Arkane Digital** building AI-powered design-to-code workflows.
 
@@ -30,4 +30,4 @@ ruff, and Docker build on every push.
 
 - 📧 nathanwjchung@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathan-chung4/)
-- 📄 [Resume](https://github.com/NathanChung4/NathanChung4/blob/main/NathanChungResume.pdf)
+- 📄 [Resume](https://nathanchung.vercel.app/resume.pdf)
