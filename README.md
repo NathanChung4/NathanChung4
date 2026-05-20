@@ -30,4 +30,3 @@ ruff, and Docker build on every push.
 
 - 📧 nathanwjchung@gmail.com | nathanwjchung30@tamu.edu
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathan-chung4/)
-- 📄 [Resume](https://nathanchung.vercel.app/resume.pdf)
