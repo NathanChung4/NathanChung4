@@ -60,6 +60,6 @@ Computer Science student at Texas A&M building backend systems and data tools. P
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio](https://nathanchung.vercel.app/)
-- 📄 [Resume](./NathanChungResume.pdf)
+- 📄 [Resume](./Nathan_Chung_Resume.pdf)
 - 📧 nathanwjchung@gmail.com | nathanwjchung30@tamu.edu
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathan-chung4/)
