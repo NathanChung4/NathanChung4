@@ -1,8 +1,6 @@
 ## Hi! I'm Nathan 👋
 
-Computer Science student at Texas A&M building backend systems and data tools. Previously a Software Engineer Intern at **AMD** working on CPU power-management validation infrastructure, and at **Arkane Digital** building AI-powered design-to-code workflows. Recently merged my first PR into **Apache Arrow**.
-
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanChung4&show_icons=true&theme=default&hide_border=true)
+Computer Science student at Texas A&M building backend systems and data tools. Previously a Software Engineer Intern at **AMD** working on CPU power-management validation infrastructure, and at **Arkane Digital** building AI-powered design-to-code workflows. 
 
 ## 🛠️ Tech Stack
 
